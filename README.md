@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FriedrichFelipe
+- 👀 I’m interested in  aprender
+- 🌱 I’m currently learning  Python
+- 📫 How to reach me: friedrichfelipe99@gmail.com
